@@ -1,0 +1,33 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen" gridspacingx="46448" gridspacingy="46448"
+  subsetembed="1">
+  <p:master id="3" slidesn="1DCCF48,BEB8CF90" type="main" href="master03.html"
+   xmlhref="master03.xml" template="Office Theme" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:slide id="1" slidesn="1DCCF48,BEBF3830" href="slide0001.html"/>
+  <p:slide id="2" slidesn="1DCCF52,6EF462D0" href="slide0002.html"/>
+  <p:slide id="3" slidesn="1DCCF52,6EF462D0" href="slide0003.html"/>
+  <p:slide id="4" slidesn="1DCCF52,6EF462D0" href="slide0004.html"/>
+  <p:slide id="5" slidesn="1DCCF52,6EF462D0" href="slide0005.html"/>
+  <p:slide id="6" slidesn="1DCCF52,6EF462D0" href="slide0006.html"/>
+  <p:slide id="7" slidesn="1DCCF52,6EF462D0" href="slide0007.html"/>
+  <p:slide id="8" slidesn="1DCCF52,6EF462D0" href="slide0008.html"/>
+  <p:slide id="9" slidesn="1DCCF52,6EF462D0" href="slide0009.html"/>
+  <p:slide id="10" slidesn="1DCCF52,6EF462D0" href="slide0010.html"/>
+  <p:slide id="11" slidesn="1DCCF48,BEBF3830" href="slide0011.html"/>
+  <p:viewstate type="slideView" scale="80" restoredleft="155" restoredtop="947"
+   manualadjustleft="t" manualadjusttop="t" hideoutlineicons="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+  <p:htmlpublishsettings browsersupport="v4"
+   href="C:\Users\GTX.id4\Documents\Rara Bisikin.mht" startslide="1"
+   endslide="11" noloadinbrowser="t"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="12303"/>
+</xml>
